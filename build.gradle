@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    //This is in java
+
+    id"application"
+    //We are using the Gradle Build tool to build a application
+}
+
+//default Gradle Stuff, no need to change
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+//default Gradle Stuff, no need to change
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+    //default Gradle Stuff, no need to change
+
+
+    //now this down was taken from https://kaptainwutax.seedfinding.com/,
+    // there this code for the library's is posted to paste into a gradle build for public free use
+    //No need to sort though library's and updates require to refresh Gradle (always at the latest)
+
+    implementation 'com.github.KaptainWutax:SEED:master-SNAPSHOT'
+
+}
+repositories {
+    mavenCentral()
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
