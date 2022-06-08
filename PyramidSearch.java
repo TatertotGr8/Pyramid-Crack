@@ -44,6 +44,7 @@ public class PyramidSearch implements Runnable {
     };
 
     //creates and defines variable “chunkRand” to be used later as a renamed ChunkRand function
+        //Uses to run Java Random to get possible world seeds 
     public void run() {
         ChunkRand chunkRand = new ChunkRand();
             //takes the structure defined above and shifts the values
