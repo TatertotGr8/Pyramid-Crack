@@ -87,12 +87,12 @@ public class PyramidSearch implements Runnable {
 
 
             {
-                //creates and defines a variable “worldSeed” by taking structure seed (lower 48 //bits) and
-                // combining it with the upperBits (upper 16 bits) to form a full-on, proper //world seed
+                //creates and defines a variable “worldSeed” by taking structure seed (lower 48 bits) and
+                // combining it with the upperBits (upper 16 bits) to form a full-on, proper world seed
                 long worldSeed = StructureSeed.toWorldSeed(structureSeed, upperBits);
 
 
-            //pulls from library BiomeSource to define variable ‘biomeSource’ as a //function that that
+                //pulls from library BiomeSource to define variable ‘biomeSource’ as a function that that
                 // determines what biome the chunks belong to by using the dimension (overworld in this case),
                 // version, and world seed we just found.
                 //We do this last because biome sourcing takes FOREVER.
