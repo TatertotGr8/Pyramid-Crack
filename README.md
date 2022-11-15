@@ -23,7 +23,7 @@ Or watch the [showcase](https://youtu.be/YYb_mFQJszU) video found here. And for 
 Issues relateing to complieing the porject are useally due to incompatiblely between your Gradle and Java installs. 
 Check the gradle documentation for gradle releases Java incompatiblely. Allthough I used Java 16 and Gradle v6.7.1 anything *should* work as long as your Java is above version 11 else the libarys would be incompatible. 
 
-To troubleshoot this on a windows system, go check the environment variables. Double check the varribles you would need a varrible **"JAVA_HOME"** is set to your Java JDK installed and the **"PATH"** varrible is set to the bin folder in your Java JDK folder.  You would also need a varrible of your Gradle install **"Gradle_Home"**  and the bin folder added to the **"PATH"** varrible
+To troubleshoot this on a windows system, go check the environment variables. Double check the varribles you would need a varrible **"JAVA_HOME"** is set to your Java JDK installed and the **"PATH"** varrible is set to the bin folder in your Java JDK folder. You would also need a varrible of your Gradle install **"Gradle_Home"**  and the bin folder added to the **"PATH"** varrible.
 
 ## Acknowledgements
 
@@ -32,21 +32,6 @@ To troubleshoot this on a windows system, go check the environment variables. Do
  - [hube12 (Neil)](https://github.com/hube12)
 
  - [Minecraft@home](https://minecraftathome.com/)
-
-## Lessons Learned
-Before this project I have a very foundational exposer to Java. This was the first relevant project I have done in the language though a medium I have an intrest in. Going into this I allready knew an *unhealthy* amount relateing to techinal Minecraft this was an opportunity to apply that knowledge. 
-
-But my personal gain from under takeing this project exceeds the realm of Minecraft.
-- Gaining knowledge in [Gradle](https://gradle.org/install/)  
-_what is a build tool and how do I use it?_
-- A semi effective troubleshooting plan
-
-Naturally things failed, no artitfacit in this project is on the first draft. That is to be expected in computer science. Allthough isssues ranged I was able to have a checklist of all the things to try when hiting a wall. Starting with double checking my Gradle and Java environmental varribles. To restarting my computer and runing it again for it to _sometimes_ work. Takeing a brain break. Then looking at or for reference code either from stack overflow or the [Minecraft@home](https://minecraftathome.com/minecrafthome/projects/)
-
--Programing Environments
-IntelliJ IDEA and VS Code 
-
-----> MKW Cyber CHeese 
 
 ## Support
 
