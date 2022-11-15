@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](project-image-url)
+![Project Image]([project-image-url](https://static.wikia.nocookie.net/minecraft/images/4/44/DesertTempleMinecraft.png/revision/latest?cb=20200308182235))
 
 > This is a ReadMe template to help save you time and effort.
 
