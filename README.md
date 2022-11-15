@@ -23,10 +23,14 @@ It should be fairly straight forward run the project and watch it go.
 Or watch the [showcase](https://youtu.be/YYb_mFQJszU) video found here. And for deeper understanding reffer to the writen documentation [here](https://docs.google.com/document/d/1S-tqtsDtqdalQDEEsopy5CnU4O1-bL9xtSGgOIrrxzI/edit#).
 
 
-Issues relateing to complieing the porject are useally due to incompatiblely between your Gradle and Java installs. Check the gradle documentation for gradle releases Java incompatiblely. Allthough I used Java 16 and Gradle v6.7.1 anything *should* work as long as your Java is above version 11 else the libarys would be incompatible.   
+Issues relateing to complieing the porject are useally due to incompatiblely between your Gradle and Java installs. 
+Check the gradle documentation for gradle releases Java incompatiblely. Allthough I used Java 16 and Gradle v6.7.1 anything *should* work as long as your Java is above version 11 else the libarys would be incompatible.   
 
-It is also important you have Java proerly installed.  
-Make sure you have the folder in a safe spot on your drive and double check you have your bin folder in your path varrible. In Windows environmental varrible set **"JAVA_HOME"** as a varrible to the path of your folder on your drive.  
+
+
+To troubleshoot this on a windows system, go check the environment variables. Double check the varribles you would need a varrible **"JAVA_HOME"** is set to your Java JDK installed and the **"PATH"** varrible is set to the bin folder in your Java JDK folder.  You would also need a varrible of your Gradle install **"Gradle_Home"**  and the bin folder added to the **"PATH"** varrible
+
+
 
 ## Acknowledgements
 
