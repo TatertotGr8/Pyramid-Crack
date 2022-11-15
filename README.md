@@ -1,7 +1,9 @@
 
 # Pyramid-Crack
 
-This is a program. 
+This is a program to find a quad desart pyramid in Minecraft verion 1.17.  
+
+This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). 
 
 
 
