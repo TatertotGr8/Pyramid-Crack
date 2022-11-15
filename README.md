@@ -46,7 +46,11 @@ _what is a build tool and how do I use it?_
 
 Naturally things failed, no artitfacit in this project is on the first draft. That is to be expected in computer science. Allthough isssues ranged I was able to have a checklist of all the things to try when hiting a wall. Starting with double checking my Gradle and Java environmental varribles. To restarting my computer and runing it again for it to _sometimes_ work. Takeing a brain break. Then looking at or for reference code either from stack overflow or the [Minecraft@home](https://minecraftathome.com/minecrafthome/projects/)
 
--Intl IDEA 
+-Programing Environments
+IntelliJ IDEA and VS Code 
+
+----> MKW Cyber CHeese 
+
 
 ## Support
 
