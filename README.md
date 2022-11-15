@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image]([[project-image-url](https://static.wikia.nocookie.net/minecraft/images/4/44/DesertTempleMinecraft.png/revision/latest?cb=20200308182235)](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046))
+![Project Image]([[[project-image-url](https://static.wikia.nocookie.net/minecraft/images/4/44/DesertTempleMinecraft.png/revision/latest?cb=20200308182235)](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046)](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest/scale-to-width-down/1000?cb=20210711034046))
 
 > This is a Minecarft Seed Finding program to find quad desart desert pyramids. 
 
