@@ -3,7 +3,7 @@
 
 This is a program to find a quad desart pyramid in Minecraft verion 1.17.  
 
-This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). 
+This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). To sreach within adjacent pyrmaid regions local to spawn and returns vaild world seeds that match the conditions of Rpos (0, 0), (0, 1), (1, 0) and (1, 1)
 
 
 
