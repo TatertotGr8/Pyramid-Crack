@@ -37,9 +37,10 @@ Make sure you have the folder in a safe spot on your drive and double check you 
  - [Minecraft@home](https://minecraftathome.com/)
 
 ## Lessons Learned
+Before this project I have a very foundational exposer to Java. This was the first relevant project I have done in the language though a medium I have an intrest in. Going into this I allready knew an *unhealthy* amount relateing to techinal Minecraft this was an opportunity to apply that knowledge. 
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
+But my personal gain from under takeing this project exceeds the realm of Minecraft.
+- Gaining knowledge in [gradle](https://gradle.org/install/)  
 
 ## Support
 
