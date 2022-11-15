@@ -1,8 +1,8 @@
 # Read Me Template
 
-![Project Image]([project-image-url](https://static.wikia.nocookie.net/minecraft/images/4/44/DesertTempleMinecraft.png/revision/latest?cb=20200308182235))
+![Project Image]([[project-image-url](https://static.wikia.nocookie.net/minecraft/images/4/44/DesertTempleMinecraft.png/revision/latest?cb=20200308182235)](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046))
 
-> This is a ReadMe template to help save you time and effort.
+> This is a Minecarft Seed Finding program to find quad desart desert pyramids. 
 
 ---
 
