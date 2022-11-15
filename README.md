@@ -18,7 +18,7 @@ clone https://github.com/TatertotGr8/Pyramid-Crack.git
 ```
 
 It should be fairly straight forward run the project and watch it go. 
-Or watch the [showcase](https://youtu.be/YYb_mFQJszU) video found here. And for deeper understanding reffer to the writen documentation [here](https://docs.google.com/document/d/1S-tqtsDtqdalQDEEsopy5CnU4O1-bL9xtSGgOIrrxzI/edit#)
+Or watch the [showcase](https://youtu.be/YYb_mFQJszU) video found here. And for deeper understanding reffer to the writen documentation [here](https://docs.google.com/document/d/1S-tqtsDtqdalQDEEsopy5CnU4O1-bL9xtSGgOIrrxzI/edit#).
 
 
 Issues relateing to complieing the porject are useally due to incompatiblely between your Gradle and Java installs. Check the gradle documentation for gradle releases Java incompatiblely. Allthough I used Java 16 and Gradle v6.7.1 anything *should* work as long as your Java is above version 11 else the libarys would be incompatible.   
