@@ -5,7 +5,7 @@ This is a program to find a quad desart pyramids in Minecraft verion 1.17.
 
 This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). To sreach within adjacent pyrmaid regions local to spawn and returns vaild world seeds that match the conditions of Rpos (0, 0), (0, 1), (1, 0) and (1, 1)
 
-## Docmentation
+## Use Docmentation
 
 To run this project, you will need to to have the a copy of [Java JDK 16](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) installed and [Gradle](https://gradle.org/install/) installed. 
  You will also need a programing environment I recomend [IntelliJ IDEA](https://www.jetbrains.com/idea/) for this but any environment that could run Java and gradle would work such as VS code. 
