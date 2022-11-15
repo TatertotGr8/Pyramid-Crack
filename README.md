@@ -25,6 +25,9 @@ Or watch the [showcase](https://youtu.be/YYb_mFQJszU) video found here. And for 
 
 Issues relateing to complieing the porject are useally due to incompatiblely between your Gradle and Java installs. Check the gradle documentation for gradle releases Java incompatiblely. Allthough I used Java 16 and Gradle v6.7.1 anything *should* work as long as your Java is above version 11 else the libarys would be incompatible.   
 
+It is also important you have Java proerly installed.  
+Make sure you have the folder in a safe spot on your drive and double check you have your bin folder in your path varrible. In Windows environmental varrible set **"JAVA_HOME"** as a varrible to the path of your folder on your drive.  
+
 ## Acknowledgements
 
  - [Kaptainwutax Minecraft Seed Finding libraries](https://kaptainwutax.seedfinding.com/)
