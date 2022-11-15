@@ -40,7 +40,12 @@ Make sure you have the folder in a safe spot on your drive and double check you 
 Before this project I have a very foundational exposer to Java. This was the first relevant project I have done in the language though a medium I have an intrest in. Going into this I allready knew an *unhealthy* amount relateing to techinal Minecraft this was an opportunity to apply that knowledge. 
 
 But my personal gain from under takeing this project exceeds the realm of Minecraft.
-- Gaining knowledge in [gradle](https://gradle.org/install/)  
+- Gaining knowledge in [Gradle](https://gradle.org/install/)  
+_what is a build tool and how do I use it?_
+- A semi effective troubleshooting plan
+_Naturally things failed, no artitfacit in this project is on the first draft. That is to be expected in computer science 
+_
+-Intl IDEA 
 
 ## Support
 
