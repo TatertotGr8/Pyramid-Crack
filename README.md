@@ -2,7 +2,7 @@
 
 This is a program to find a quad desert pyramid in Minecraft version 1.17.  
 
-This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). To search within adjacent pyramid regions local to spawn and returns valid world seeds that match the conditions of the region positions, (0, 0), (0, 1), (1, 0), and (1, 1)
+This program makes use of the [seed-finding libarys](https://kaptainwutax.seedfinding.com/) developed by [Kaptainwutax](https://github.com/KaptainWutax) and [Neil](https://github.com/hube12). To search within adjacent pyramid regions local to spawn and returns valid world seeds that match the conditions of the region positions, (0, 0), (0, 1), (1, 0), and (1, 1).
 
 ## Use Documentation
 
